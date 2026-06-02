@@ -1,0 +1,368 @@
+{
+  "users": {
+    "bd91c4bfb18c6d21f21961091ea4abba950c4143": {
+      "username": "Komait",
+      "plan": "15",
+      "expires": "2026-06-14 10:35:50",
+      "active": true,
+      "note": "",
+      "created": "2026-05-30 10:35:50",
+      "last_seen": "2026-06-02 02:15:35",
+      "last_ip": "127.0.0.1",
+      "devices": [
+        {
+          "ip": "127.0.0.1",
+          "first_seen": "2026-05-30 10:40:46",
+          "last_seen": "2026-06-01 23:59:42",
+          "count": 8
+        }
+      ],
+      "device_count": 1
+    },
+    "cd41b76c5199852371fc8e3142d9dcf966d7b7c4": {
+      "username": "Aiman",
+      "plan": "15",
+      "expires": "2026-06-14 10:36:02",
+      "active": true,
+      "note": "",
+      "created": "2026-05-30 10:36:02",
+      "last_seen": null,
+      "last_ip": null
+    },
+    "d972b9f4a9f5c0f0261e7f3cb732cd8419a49e35": {
+      "username": "Hamza",
+      "plan": "15",
+      "expires": "2026-06-16 22:51:19",
+      "active": true,
+      "note": "",
+      "created": "2026-06-01 22:51:19",
+      "last_seen": "2026-06-02 01:29:05",
+      "last_ip": "127.0.0.1",
+      "devices": [
+        {
+          "ip": "127.0.0.1",
+          "first_seen": "2026-06-02 00:56:37",
+          "last_seen": "2026-06-02 01:29:05",
+          "count": 2
+        }
+      ],
+      "device_count": 1
+    }
+  },
+  "activity": [
+    {
+      "username": "Hamza",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-02 01:29:05"
+    },
+    {
+      "username": "Hamza",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-02 00:56:37"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-01 23:59:42"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-01 22:43:22"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-01 22:27:38"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-01 22:18:11"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-06-01 21:51:58"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-05-31 16:57:44"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-05-31 15:58:39"
+    },
+    {
+      "username": "Komait",
+      "action": "VERIFY_OK",
+      "device": "",
+      "game": "",
+      "value": "",
+      "status": "",
+      "ip": "127.0.0.1",
+      "ts": "2026-05-30 10:40:46"
+    }
+  ],
+  "games": [
+    {
+      "name": "Color Sort Woody Puzzle",
+      "package": "id6475673897",
+      "dev_key": "CkyYk6ThNSr9MPEvmCNZRN",
+      "template": "level_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Wooden Word Puzzle",
+      "package": "id6738347014",
+      "dev_key": "CkyYk6ThNSr9MPEvmCNZRN",
+      "template": "level_completed_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Coin Master",
+      "package": "id406889139",
+      "dev_key": "H3KjoCRVTiVgA5mWSAHtCe",
+      "template": "village_{}_complete",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Coin Master boader",
+      "package": "id6745761596",
+      "dev_key": "H3KjoCRVTiVgA5mWSAHtCe",
+      "template": "village_{}_complete",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Travel Town",
+      "package": "id1521236603",
+      "dev_key": "wizhvjciCuaDbAaR8KpZLn",
+      "template": "reachedLevel{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Domino Dreams",
+      "package": "id6444043291",
+      "dev_key": "Hn5qYjVAaRNJYDcwF4LaWF",
+      "template": "af_area_{}_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Solitaire Grand Harvest",
+      "package": "id1223338261",
+      "dev_key": "X8aGgdWELNb5L96fCy44oL",
+      "template": "level_up_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Cuisine Master",
+      "package": "id1609030815",
+      "dev_key": "im6mgZbZJsHKGVowkkxkGm",
+      "template": "level{}_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Yarn Loop!",
+      "package": "id6755183085",
+      "dev_key": "TGm97uKTJF7qFCvREggWtf",
+      "template": "level_complete_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Match Factory",
+      "package": "id6449094229",
+      "dev_key": "F9M4SkdtH8WHcAt86ESrF3",
+      "template": "level_{}_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Toon Blast",
+      "package": "id1176027022",
+      "dev_key": "F9M4SkdtH8WHcAt86ESrF3",
+      "template": "level_{}_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Toy Blast",
+      "package": "id890378044",
+      "dev_key": "F9M4SkdtH8WHcAt86ESrF3",
+      "template": "level_{}_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Box Jam",
+      "package": "id6689513436",
+      "dev_key": "cSJjCEwX2cCtJrNH92xM7n",
+      "template": "level_completed",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Gardenscapes",
+      "package": "id1105855019",
+      "dev_key": "ixMH7WQi4SqLAmPWuyAtkH",
+      "template": "AchievedLevel{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Dice Dreams",
+      "package": "id1484468651",
+      "dev_key": "Hn5qYjVAaRNJYDcwF4LaWF",
+      "template": "af_kingdom_{}_restored",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Family Island",
+      "package": "id1464689103",
+      "dev_key": "H3KjoCRVTiVgA5mWSAHtCe",
+      "template": "level_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Taylor's Secret",
+      "package": "id1659615328",
+      "dev_key": "qbKVyawAiwNX3b4D3Frijm",
+      "template": "level_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Big Farm Homestead",
+      "package": "id6742455668",
+      "dev_key": "FtaT5WH9rMJjJkMd4LfBCT",
+      "template": "af_level{}_achieved",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Sunshine Island",
+      "package": "id6443624260",
+      "dev_key": "FtaT5WH9rMJjJkMd4LfBCT",
+      "template": "af_level{}_achieved",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Idle Bank Tycoon",
+      "package": "id1645281275",
+      "dev_key": "DwzgMQDkEVMy3ntcgz7utV",
+      "template": "af_bank{}_started",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "FarmVille 3",
+      "package": "id843506607",
+      "dev_key": "KVJuxDJVXQRPoqUVdyWJtj",
+      "template": "Player_Level{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Township",
+      "package": "id638689075",
+      "dev_key": "ixMH7WQi4SqLAmPWuyAtkH",
+      "template": "achievedlevel{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Merge Match",
+      "package": "id6748888268",
+      "dev_key": "nr8SibwpFjcKGBQNpDdttd",
+      "template": "Incent_Player_Level_Up_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "FarmVille 2 Country Escape",
+      "package": "id824318267",
+      "dev_key": "438VCPmX2ZLYvsDPfGLZXb",
+      "template": "Level{}Complete",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Merge Studio",
+      "package": "id1615964753",
+      "dev_key": "mFaiXvTWy8votzp3UpsSfS",
+      "template": "level_completed_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Goods Master 3D",
+      "package": "id1577533842",
+      "dev_key": "oUYXWsx5SVDbJwtSCCymUD",
+      "template": "af_Level_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Tiles Mosaic",
+      "package": "id6469061309",
+      "dev_key": "j7J8eEwxvuQbDDFo3agC9X",
+      "template": "GameComplete_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Empires⚔️",
+      "package": "id1117841866",
+      "dev_key": "wStj8eCCuE84shUTkh7ZGc",
+      "template": "xp_level_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Klondike",
+      "package": "id1127240206",
+      "dev_key": "oTiS8cJmQRTDXbixob6wQL",
+      "template": "level_{}",
+      "added": "2025-01-01 00:00:00"
+    },
+    {
+      "name": "Unravel Master",
+      "package": "id6744552355",
+      "dev_key": "nYwfftoacbopmuszWBPGnd",
+      "template": "level_completed_{}",
+      "added": "2025-01-01 00:00:00"
+    }
+  ],
+  "updates": [],
+  "messages": []
+}
